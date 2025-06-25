@@ -30,3 +30,10 @@ Welcome to the Git & GitHub course repo! We are super excited to have you. Here,
 ---
 
 Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
+
+
+
+
+6/25/25
+
+hey bouse
